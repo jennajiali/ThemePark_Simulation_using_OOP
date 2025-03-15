@@ -28,7 +28,7 @@ STAT0040 coursework project for Objected-Oriented Programming
 
 3.	Dictionary as a mutable structure with unique keys to map each customer_id to their queue_entry_times. Queue_entry_time is retrieved fast with customer_id as the key when processing a customer’s ride, and updated easily when that customer then queue for the next ride, ensuring one customer is queueing for only one queue at a time. 
 
-**Extensions:**
+**Possible Extensions to Make the Simulation More Realistic:**
 
 1.	Height Restrictions:
     - Customer: Add a height attribute.
