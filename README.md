@@ -1,7 +1,11 @@
 # ThemePark_Simulation_using_OOP
 STAT0040 coursework project for Objected-Oriented Programming
 
-A summary of the themepark simulation data from Monday to Sunday across 4 weeks illustrates that the number of customers visiting is much higher on weekends than weekdays, and it peaks on Sundays, reflecting that more people tend to visit the theme park for leisure during their days off. However, the average rides taken per customer appears lower during the peak times e.g. Sundays, and higher on the days when fewer customers are visiting e.g. Tuesdays. Customers also tend to spend more time waiting during peak times (from Fridays to Sundays) even though the average time they spent enjoying the rides are shorter (e.g. 0.84 the lowest on Sundays), likely due to longer queues or operational inefficiencies that arrised due to park congestion.
+
+Insights from the theme park simulation output:
+- By aggregating the output data from Monday to Sunday across 4 weeks, the simulation illustrates that the number of customers visiting is much higher on weekends than weekdays, and it peaks on Sundays, reflecting that more people tend to visit the theme park for leisure during their days off.
+- However, the average rides taken per customer appears lower during the peak times e.g. Sundays, and higher on the days when fewer customers are visiting e.g. Tuesdays.
+- Customers also tend to spend more time waiting during peak times (from Fridays to Sundays) even though the average time they spent enjoying the rides are shorter (e.g. 0.84 the lowest on Sundays), likely due to longer queues or operational inefficiencies that arrised due to park congestion.
 
 
 **Object-Oriented Programming**
