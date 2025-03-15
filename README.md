@@ -1,15 +1,20 @@
 # ThemePark_Simulation_using_OOP
 STAT0040 coursework project for Objected-Oriented Programming
 
+Main Python scripts: 
+- The custom module: "Themepark_classes.py"
+- To produce a new dataset of simulation output: "themepark_simulation.py" with the given input data in "ride_info.csv", "arrival_rates.csv", and "ride_transitions.csv"
+- To summarise the simulation output: "example_output_aggregation.py"
+- For testing purposes: "test_code.py"
 
 ### Insights from the theme park simulation output:
-relating to the file summary_output.csv generated using example_output_aggregation.py
+relating to the file "summary_output.csv" generated using "example_output_aggregation.py"
 - By aggregating the output data from Monday to Sunday across 4 weeks, the simulation illustrates that the number of customers visiting is much higher on weekends than weekdays, and it peaks on Sundays, reflecting that more people tend to visit the theme park for leisure during their days off.
 - However, the average rides taken per customer appears lower during the peak times e.g. Sundays, and higher on the days when fewer customers are visiting e.g. Tuesdays.
 - Customers also tend to spend more time waiting during peak times (from Fridays to Sundays) even though the average time they spent enjoying the rides are shorter (e.g. 0.84 the lowest on Sundays), likely due to longer queues or operational inefficiencies that arrised due to park congestion.
 
 
-### A report on my solutions Themepark_classes.py
+### A report on my solutions "Themepark_classes.py"
 
 **Object-Oriented Programming**
 
