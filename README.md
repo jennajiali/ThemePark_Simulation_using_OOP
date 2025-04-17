@@ -33,7 +33,7 @@ The file `summary_output.csv` generated using `example_output_aggregation.py` pr
 2. **Customer and ThemePark Attributes:** Lists are used for attributes like `Customer.path`, `.ride_times`, `.wait_times`, and `ThemePark.customers` to allow for duplicates and easy mutability.
 3. **Dictionary:** Maps each `customer_id` to their `queue_entry_times`, allowing fast retrieval when processing a customer.
 
-### Possible Extensions to Make the Simulation More Realistic
+### Could have considered these to make the simulation more realistic:
 
 1. **Height Restrictions:**
     - **Customer:** Add a `height` attribute.
