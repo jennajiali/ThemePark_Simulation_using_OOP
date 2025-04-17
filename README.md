@@ -18,7 +18,7 @@ The file `summary_output.csv` generated using `example_output_aggregation.py` pr
 - The average rides taken per customer appears lower during peak times (e.g., Sundays) and higher on days with fewer visitors (e.g., Tuesdays).
 - Customers tend to spend more time waiting during peak times (from Fridays to Sundays), even though the average time they spend enjoying the rides is shorter (e.g., 0.84 hours on Sundays).
 
-## Report on My Solutions in `Themepark_classes.py`
+## A Report on My Solutions in `Themepark_classes.py`
 
 ### Object-Oriented Programming
 
