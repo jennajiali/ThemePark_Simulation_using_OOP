@@ -1,6 +1,6 @@
 # ThemePark Simulation using OOP
 
-STAT0040 coursework project for Objected-Oriented Programming
+Coursework project for STAT0040 Objected-Oriented Programming
 
 ## Introduction
 This project simulates the operations of a theme park using Object-Oriented Programming (OOP) principles. The simulation helps analyze customer behavior, ride usage, and overall park performance.
